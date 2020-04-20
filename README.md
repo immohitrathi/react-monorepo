@@ -9,7 +9,8 @@
 
 ## Directory Structure
 ```
-react-monorepo  |__api // api helpers as private package
+react-monorepo  
+  |__api // api helpers as private package
   |__my-app // main application
   |__ui-kit // component library as private package
 ```
