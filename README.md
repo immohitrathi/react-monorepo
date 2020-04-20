@@ -9,8 +9,7 @@
 
 ## Directory Structure
 ```
-so-you-want-to-build-libraries/
-  |__api // api helpers as private package
+react-monorepo  |__api // api helpers as private package
   |__my-app // main application
   |__ui-kit // component library as private package
 ```
@@ -30,16 +29,6 @@ cd my-app
 yarn start
 ```
 
-## Interested to watch the whole thing? Click 👇
-<a href="https://youtu.be/gyYqwFYz3vE">
-  <img width="500" height="300" alt="screenshot 2019-01-24 at 12 00 12 pm" src="https://user-images.githubusercontent.com/11384858/51659198-ddb79c80-1fcf-11e9-9d36-6ea093871d7e.png">
-</a>
-
-
 ## Like it?
 
 :star: this repo
-
-## License
-
-MIT © [Kamlesh Chandnani](https://github.com/kamleshchandnani)
