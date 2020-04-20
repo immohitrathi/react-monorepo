@@ -1,9 +1,4 @@
-<div align="center">
 
-# So you want to build libraries?
-<img width="250" height="220" src="https://media.giphy.com/media/3o7TKAdOad9Y3eSMZG/giphy.gif">
-
-</div>
 
 ## Purpose
 * The motivation behind this repo is to understand how you can setup monorepos.
